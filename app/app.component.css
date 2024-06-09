@@ -1,0 +1,6 @@
+.centrado{
+text-align: center;/*centrar orizontalmente*/
+display: flex;/*utilizamos flexbox para centrar verticalmente*/
+justify-content:center;/*centrar orizontalmente con flexbox*/
+width: 100%;/*ancho completo*/
+}
